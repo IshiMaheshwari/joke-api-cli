@@ -21,10 +21,9 @@ This command line tool interacts with the "icanhazdadjoke" API to bring humor to
     ``
     npm install
     ``
+ ## Usage 
 
-## Usage 
-
-### Search for Jokes
+ ### Search for Jokes
 
 To search for jokes, use the following command:
 
@@ -34,7 +33,7 @@ node joke-cli.js <searchTerm>
 
 Replace <searchTerm> with your desired search term.
 
-## Examples
+ ## Examples
 1. Search for a Joke:
 
 ``
